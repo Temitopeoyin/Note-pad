@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    
+}
+#butn{
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    border: none;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: aquamarine;
+    /* margin-top: 40%;
+    margin-left: 40%; */
+    font-size: 25px;
+}
+.div1{
+    width: 100vw;
+
+}
+.div2{
+    /* border: 1px solid black; */
+    text-align: center;
+
+    margin: auto;
+}
+img{
+    margin-left:-23px;
+   
+}
+#inp{
+    border: 1px solid black;
+    width: 70%;
+    height: 5vh;
+    border-radius: 5px;
+    color: black;
+    padding-left: 30px;
+    padding-top: 5px;
+}
